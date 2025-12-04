@@ -37,22 +37,6 @@ It just works. Run the program and gain immediate insights into your grade perfo
 
 ---
 
-🚀 Quick Start Example
-
-Enter number of grades: 5
-
-Enter grade 1: 78
-Enter grade 2: 90
-Enter grade 3: 85
-Enter grade 4: 67
-Enter grade 5: 92
-
------- Grade Summary ------
-Highest Score: 92
-Lowest Score: 67
-Average Score: 82.4
----------------------------
-
 🧩 Features
 
 ➤ Add grades dynamically
